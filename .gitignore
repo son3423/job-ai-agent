@@ -1,0 +1,27 @@
+# Python 가상환경
+.venv/
+
+# Python 임시파일
+__pycache__/
+*.pyc
+
+# 데이터베이스
+*.db
+*.sqlite
+*.sqlite3
+
+# API 키 / 환경변수
+.env
+.env.*
+
+# 로그인 세션
+auth/
+*_state.json
+storage_state.json
+
+# VS Code 개인 설정
+.vscode/
+
+# 운영체제 임시파일
+.DS_Store
+Thumbs.db
