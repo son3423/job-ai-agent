@@ -25,3 +25,5 @@ storage_state.json
 # 운영체제 임시파일
 .DS_Store
 Thumbs.db
+
+brightdata_*.json
